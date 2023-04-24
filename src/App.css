@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+.container{
+  display:flex;
+  justify-items: center;
+  align-items: center;
+ height:400px;
+ width:300px;
+padding-left: 34px;
+  background-color:yellow;
+  border-radius: 12px;
+  
+}
+.t{
+  background-color: blue;
+  height:1000px;
+padding-top: 124px;
+
+}
+input{
+  border-radius: 5px;
+background-color:pink;
+color:black;
+}
+button{
+  border-radius: 5px;
+  background-color: aqua;
+}
+button:hover{
+ background-color: white;
+  color:black;
+}
+li{
+  list-style: none;
+}
+h1{
+  color:whitesmoke;
+}
